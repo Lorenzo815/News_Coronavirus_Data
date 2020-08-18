@@ -9,7 +9,7 @@ This repository contains data from the Facebooks of the following news channels:
   * FOX
   * NBC
 
-* Britsh:
+* British:
   * BBC
   * DAILY
   * INDEPENDENT
